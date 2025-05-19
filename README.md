@@ -31,7 +31,7 @@ Este projeto consiste na criação de uma página web com efeito de **parallax s
 2. Abra o arquivo `index.html` em qualquer navegador moderno
 
 ```bash
-git clone https://github.com/seuusuario/parallax-website.git
+git clone https://github.com/Cayoguzansky/Portf-lio-de-projetos---Frontend/tree/main/parallax
 =======
 # Parallax-design-website
 Projeto de site com efeito parallax, desenvolvido com HTML, CSS e JavaScript. A página simula profundidade ao rolar, movimentando camadas em velocidades diferentes para criar uma experiência visual moderna, interativa e responsiva para web.
