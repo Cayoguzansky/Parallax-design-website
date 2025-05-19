@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🌐 Parallax Design Website
 
 Este projeto consiste na criação de uma página web com efeito de **parallax scrolling**, onde elementos do fundo e do primeiro plano se movem em velocidades diferentes à medida que o usuário rola a página. Isso cria uma sensação de profundidade e dinamismo visual.
@@ -31,3 +32,7 @@ Este projeto consiste na criação de uma página web com efeito de **parallax s
 
 ```bash
 git clone https://github.com/seuusuario/parallax-website.git
+=======
+# Parallax-design-website
+Projeto de site com efeito parallax, desenvolvido com HTML, CSS e JavaScript. A página simula profundidade ao rolar, movimentando camadas em velocidades diferentes para criar uma experiência visual moderna, interativa e responsiva para web.
+>>>>>>> e818a408c09b0f94f13ca94115d471019450bbbd
